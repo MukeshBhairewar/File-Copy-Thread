@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\bin\Debug\FileCopy_Thread.exe.config
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\bin\Debug\FileCopy_Thread.exe
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\bin\Debug\FileCopy_Thread.pdb
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.Form1.resources
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.Properties.Resources.resources
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.exe
+C:\Users\admin\source\repos\FileCopy_Thread\FileCopy_Thread\obj\Debug\FileCopy_Thread.pdb
